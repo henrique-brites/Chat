@@ -22,7 +22,7 @@ Before starting, you will need to have the following tools installed on your mac
 [Git](https://git-scm.com), [PHP](https://www.php.net/), [Laravel](https://laravel.com/). 
 Besides, it's nice to have an editor to work with code like [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o projeto
+### 🎲 Running the project
 
 ```bash
 # Clone this repository into your Apache folder
@@ -34,7 +34,7 @@ $ cd Chat
 # Install dependencies
 $ composer install
 
-# Criar o arquivo .env 
+# Create the .env file
 $ cp .env.example .env
 
 # Remember to configure MySQL database access in .env
